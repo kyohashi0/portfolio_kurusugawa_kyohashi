@@ -1,0 +1,27 @@
+title,link,snippet
+Python超入門コース(テスト),https://kino-code.work/python-scraping/, Python超入門コース#01 Pythonのコース紹介 Python超入門コース#02 Pythonとは？ Python超入門コース#03 環境構築 for Mac Python超入門コース#04 プログラムの基本構造...
+Python超入門コース#14 実践,https://kino-code.work/course-python14-practice/," クラス,アトリビュート,メソッド,コンストラクタ"
+Python超入門コース#13 クラス,https://kino-code.work/course-python13-class/," クラス,アトリビュート,メソッド,クラスの定義,メソッドの定義,クラスの使い方（インスタンス化）,アトリビュートの定義,コンストラクタ,クラスの便利なところ"
+Python超入門コース#12 関数,https://kino-code.work/course-python12-function/," 関数とは,関数の種類,関数の定義,引数,戻り値,引数なしの関数,引数ありの関数,関数を変数へ代入,複数の引数がある関数,return文"
+Python超入門コース#11 反復,https://kino-code.work/course-python11-repetition/," break, contine, for文, for文のネスト, 反復, range,リスト"
+Python超入門コース#10 条件分岐,https://kino-code.work/course-python10-conditional-branch/," if, if~else, if~else is ~else, 条件分岐,Python"
+python超入門コース#09 演算子,https://kino-code.work/course-python09-operator/," 演算子,算術演算子,関係演算子,論理演算子,代入演算子,Python"
+Python超入門コース#08 リスト,https://kino-code.work/coruse-python08-list/," 1次元リスト, インデックス, 多次元リスト,リスト"
+Python超入門コース テストページ,https://kino-code.work/python-super-basic-course/, Python超入門コース#01 Pythonのコース紹介 Python超入門コース#02 Pythonとは？ Python超入門コース#03 環境構築 for Mac Python超入門コース#03 環境構築 for Windows Py...
+Python超入門コース#07 データ型,https://kino-code.work/course-python07-data-type/," float, int, Python, string, true, false,データ型, ブール型, 小数, 整数, 文字"
+Python超入門コース#06 変数,https://kino-code.work/course-python06-variable/," Python, データ型, 予約語, 変数, 文字列"
+Python超入門コース#05 実行,https://kino-code.work/course-python05-runtime/," python, Pythonファイルの作成"
+Python超入門コース#04 プログラムの基本構造,https://kino-code.work/course-python04-basic-structure/," プログラムの基本構造,順次進行,条件分岐,繰り返し"
+Python超入門コース#03 環境構築,https://kino-code.work/course-python03-environment/," Python, anaconda, Visual Studio Code"
+Python超入門コース#02 Pythonとは？,https://kino-code.work/course-python02-what-python/," Pythonとは,学びやすい言語,人気言語,人工知能を作れる,TensorFlow,Pandas,スクリプト言語,NumPy"
+Python超入門コース#01 Pythonのコース紹介,https://kino-code.work/course-python01-course-introduction/," Python,5分動画 × 全15回前後の濃縮コース, コースの趣旨, 他の言語を学びやすい, 初心者でも学べる, 無料で学べる, 特徴"
+Go超入門コース#02 Goとは？,https://kino-code.work/course-go02-what-go-2/, こんちには。キノコードです。 このレッスンでは、 Go言語について説明をします。 Go言語とは Go言語は、2009年にGoogleが開発した...
+超入門コース+You Tube リンク,https://kino-code.work/mix-youtube-scraping/, Python超入門コース＃01Pythonコース紹介 Python超入門コース＃02Pythonとは Go超入門コース#01 Goのコース紹介 Go超入門コース#02 Go言語とは ...
+超入門コース テストページ,https://kino-code.work/mix-scraping/, Python超入門コース＃01Pythonコース紹介 Python超入門コース＃02Pythonとは Go超入門コース#01 Goのコース紹介 Go超入門コース#02 Go言語とは ...
+You Tube リンク,https://kino-code.work/youtube-scraping/, Python超入門コース 合併版｜Pythonの超基本的な部分をたった1時間で学べます【プログラミング初心者向け入門講座】 Pythonで面倒なExcelの仕事を自動化しよう( 第一弾 )｜一瞬で仕事...
+【Go言語 超入門コース】14.メソッド｜Goのメソッドは、他の言語のメソッドとは違っています【プログラミング初心者向け入門講座】,https://kino-code.work/course-go14-method/, メソッドとは、構造体などの特定の型に関連づけられた関数のことです。 メソッドといっても、他のプログラミング言語にあるメソッドとは異なります 例えば、Pythonなどのプログラミング言語のメソッドは、クラスの中に記述されたものです。 しかし、そもそもGo言語にはクラスの概念がありません。
+【Go言語 超入門コース】03.環境構築 for Windows｜プログラミングをする準備をしよう！【プログラミング初心者向け入門講座】,https://kino-code.work/course-go03-environment-for-windows/, このレッスンでは、Go超入門コース#03 環境構築について説明をします。 環境構築とは、プログラムを書いたり、実行できたりする環境を自分のコンピュータに整えることをいいます。 環境構築のために、Go本体、VisualStudioCode、VisualStudioCodeのGoの拡張機能の3つをインストールします。
+【Go言語 超入門コース】07.データ型 ｜変数に入れるデータの種類のことです【プログラミング初心者向け入門講座】,https://kino-code.work/course-go07-data-type/, データ型とは、変数に入れるデータの種類のことです。 この動画では、データ型の数値型、文字列型、ブール型について説明します。 ちなみに、Goでは、変数にデータを入れるときに、データ型を指定する必要があります。 このようなプログラミング言語のことを静的型付け言語といいます。
+キノコード テストページ,https://kino-code.work/," Python,Go.Java,Kotlin,Ruby,PHP"
+【Go言語 超入門コース】03.環境構築 for Windows｜プログラミングをする準備をしよう！【プログラミング初心者向け入門講座】,https://kino-code.work/course-go03-environment/, このレッスンでは、Go超入門コース#03 環境構築について説明をします。 環境構築とは、プログラムを書いたり、実行できたりする環境を自分のコンピュータに整えることをいいます。 環境構築のために、Go、VisualStudioCode、Goの拡張機能の3つをインストールします。
+【Go言語 超入門コース】02.Goとは？ ｜Goの特徴などをわかりやすく解説【プログラミング初心者向け入門講座】,https://kino-code.work/course-go02-what-go/, このレッスンでは、 Go言語について説明をします。 Go言語は、2009年にGoogleが開発したプログラミング言語です。 Go言語は、当初、LinuxとMacOSのみサポートしていましたが、2012年の正式バージョン1.0からはWindowsもサポートしています
